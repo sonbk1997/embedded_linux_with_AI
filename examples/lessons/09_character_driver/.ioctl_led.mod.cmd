@@ -1,0 +1,1 @@
+savedcmd_/home/sonlh/3.LinuxEmbedded/embedded_linux_ai_first/examples/lessons/09_character_driver/ioctl_led.mod := printf '%s\n'   ioctl_led.o | awk '!x[$$0]++ { print("/home/sonlh/3.LinuxEmbedded/embedded_linux_ai_first/examples/lessons/09_character_driver/"$$0) }' > /home/sonlh/3.LinuxEmbedded/embedded_linux_ai_first/examples/lessons/09_character_driver/ioctl_led.mod
